@@ -51,7 +51,7 @@ if __name__=="__main__":
     run_tag = run_tag.replace('/', '_')
 
     # load task configuration
-    configs = json.load(open('configs.json'))
+    configs = json.load(open('ditto/configs.json'))
     configs = {conf['name'] : conf for conf in configs}
     config = configs[task]
 
