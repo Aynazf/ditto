@@ -200,6 +200,15 @@
   "testset": "data/er_magellan/Structured/Amazon-Google/test.txt"
   },
   {
+  "name": "Structured/Ceptelefonu",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "ditto/data/turkish/Structured/Ceptelefonu/train.txt",
+  "validset": "ditto/data/turkish/Structured/Ceptelefonu/valid.txt",
+  "testset": "ditto/data/turkish/Structured/Ceptelefonu/test.txt"
+  },
+ 
+  {
   "name": "Structured/Beer",
   "task_type": "classification",
   "vocab": ["0", "1"],
