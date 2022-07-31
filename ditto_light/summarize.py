@@ -9,7 +9,7 @@ from nltk.corpus import stopwords
 
 from .dataset import get_tokenizer
 
-stopwords = set(stopwords.words('english'))
+stopwords = set(stopwords.words('turkish'))
 
 class Summarizer:
     """To summarize a data entry pair into length up to the max sequence length.
