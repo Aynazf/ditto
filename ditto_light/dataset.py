@@ -7,7 +7,7 @@ from .augment import Augmenter
 
 # map lm name to huggingface's pre-trained model names
 lm_mp = {'roberta': 'roberta-base',
-         'distilbert': 'distilbert-base-uncased'}
+         'distilbert': 'dbmdz/distilbert-base-turkish-cased'}
 
 def get_tokenizer(lm):
     if lm in lm_mp:
@@ -23,7 +23,7 @@ class DittoDataset(data.Dataset):
                  path,
                  max_len=256,
                  size=None,
-                 lm='roberta',
+                 lm='distilbert',
                  da=None):
         self.tokenizer = get_tokenizer(lm)
         self.pairs = []
