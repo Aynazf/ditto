@@ -203,9 +203,9 @@
   "name": "Structured/Ceptelefonu",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "ditto/data/turkish/Structured/Ceptelefonu/train.txt",
-  "validset": "ditto/data/turkish/Structured/Ceptelefonu/valid.txt",
-  "testset": "ditto/data/turkish/Structured/Ceptelefonu/test.txt"
+  "trainset": "ditto/data/Structured/Ceptelefonu/train.txt",
+  "validset": "ditto/data/Structured/Ceptelefonu/valid.txt",
+  "testset": "ditto/data/Structured/Ceptelefonu/test.txt"
   },
  
   {
