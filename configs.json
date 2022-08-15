@@ -4,9 +4,9 @@
     "name": "Makeyaj_loreal",
     "task_type": "classification",
     "vocab": ["0", "1"],
-    "trainset": "data/Makeyaj/loreal/train.txt.small",
-    "validset": "data/Makeyaj/loreal/valid.txt.small",
-    "testset": "data/Makeyaj/loreal/test.txt"
+    "trainset": "ditto/data/Makeyaj/loreal/train.txt",
+    "validset": "ditto/data/Makeyaj/loreal/valid.txt",
+    "testset": "ditto/data/Makeyaj/loreal/test.txt"
   },{
     "name": "wdc_all_small",
     "task_type": "classification",
