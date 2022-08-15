@@ -273,7 +273,7 @@ def load_model(task, path, lm, use_gpu, fp16=True):
     if not os.path.exists(checkpoint):
         raise ModelNotFoundError(checkpoint)
 
-    configs = json.load(open('configs.json'))
+    configs = json.load(open('ditto/configs.json'))
     configs = {conf['name'] : conf for conf in configs}
     config = configs[task]
     config_list = [config]
