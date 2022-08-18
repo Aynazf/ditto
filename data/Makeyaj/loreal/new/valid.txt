@@ -1,0 +1,166 @@
+COL name VAL L'oreal paris Bambi Eye Ceylan GÃ¶z Etkili Siyah Maskara 30175792	COL name VAL Loreal Paris L'orÃ©al Paris Bambi Eye Ceylan GÃ¶z Etkili Maskara, Siyah, 8.9 ml	0
+COL name VAL L'oreal paris Bronze Please! BronzlaÅŸtÄ±rÄ±cÄ± Pudra 03 Amalfi	COL name VAL L'OrÃ©al Paris Bronze Please! BronzlaÅŸtÄ±rÄ±cÄ± Pudra 03 Amalfi Medio	1
+COL name VAL L'oreal paris KaÅŸ Kalemi - Brow Artist High Contour 102 Cool Blonde	COL name VAL L'OrÃ©al Paris Brow Artist High Contour 102 Cool Blond - SarÄ±ÅŸÄ±n	1
+COL name VAL L'oreal paris Telescopic Siyah Maskara 2'li Set	COL name VAL Loreal Paris L'oreal Paris Telescopic Carbon Siyah Maskara Maskara	0
+COL name VAL L'oreal paris Siyah Bambi Eye Oversized Ceylan GÃ¶z Etkili Maskara	COL name VAL Loreal Paris Bambi Eye Ceylan GÃ¶z Etkili Maskara - Siyah X2	0
+COL name VAL Loreal Paris L'oreal Paris Loreal Paris Air Volume Waterproof Suya DayanÄ±klÄ± Maskara Maskara	COL name VAL L'oreal paris Loreal Air Volume Easy Waterproof Suya DayanÄ±klÄ± Maskara Siyah	0
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten - 3D Golden Beige	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 3d Golden BeÄ±ge	1
+COL name VAL L'OrÃ©al Paris Color Riche Shine Ruj 642 MLBB - Nude	COL name VAL L'oreal paris L'orÃ©al Paris Glow Paradise Balm-in-lipstick - IÅŸÄ±ltÄ± Veren Ruj 642 Beige Eden	1
+COL name VAL L'Oreal Paris Color Riche Les Nus Ruj 179 Decadent	COL name VAL L'oreal paris Color Riche Les Nus Ruj 179 Nu Decadent	1
+COL name VAL L'OrÃ©al Paris Glow ChÃ©rie IÅŸÄ±ltÄ± Veren Renkli Nemlendirici Light Glow 30 ml	COL name VAL L'oreal paris AydÄ±nlÄ±k Veren Renkli Nemlendirici - Glow Cherie Light Glow	1
+COL name VAL L'oreal paris Paris Stick FondÃ¶ten 190 Beige Dore	COL name VAL L'OrÃ©al Paris Infaillible Shaping Stick FondÃ¶ten 190 Beige Dore	1
+COL name VAL L'oreal paris Dudak Kalemi - Infaillible Lip Pencil 101 Gone With The Nude	COL name VAL L'OrÃ©al Paris Infaillible Dudak Kalemi 101 Gone With The Nude- Nude	1
+COL name VAL Loreal Paris Ruj Sexy Balm 204 Never Stop	COL name VAL L'oreal paris Ruj Sexy Balm 204 Never Stop	0
+COL name VAL L'oreal paris Infaillible 24H Matte Cover YÃ¼ksek KapatÄ±cÄ± FondÃ¶ten 145 Rose Beige	COL name VAL L'OrÃ©al Paris Infaillible 24H Matte Cover YÃ¼ksek KapatÄ±cÄ± FondÃ¶ten - 145 Rose Beige	1
+COL name VAL Loreal Paris Infaillable Lipgloss - 309 Sayonara Sunset	COL name VAL Loreal Paris Infaillable Lipgloss - 309 Sayonara Sunset	1
+COL name VAL Loreal Paris Le Liner Signature GÃ¶z Kalemi 08 Taupe Grey Tweed	COL name VAL L'oreal paris L'orÃ©al Paris Le Liner Signature Waterroof Gri GÃ¶z Kalemi - 08 Taupe Grey Tweed	0
+COL name VAL L'oreal paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 4n BeÄ±ge	COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 3R ROSE BEIGE	0
+COL name VAL L'oreal paris Color Riche Shine Naked Tans Ruj 658 Topless - Nude	COL name VAL L'OrÃ©al Paris Color Riche Shine Naked Tans Ruj 658 Topless - Nude	1
+COL name VAL Loreal Paris Lip Liner Couture By Color Riche 285 Pink Fever	COL name VAL Loreal botanicals Lip Liner Couture By Color Riche 285 Pink Fever	0
+COL name VAL L'OrÃ©al Paris Color Riche Les Nus Ruj 182 Nu Extreme	COL name VAL L'oreal paris Color Riche Les Nus Ruj 182 Nu Extreme	0
+COL name VAL L'oreal paris KapatÄ±cÄ± - True Match Concealer 4n Beige	COL name VAL L'OrÃ©al Paris True Match KapatÄ±cÄ± - 4N Beige	1
+COL name VAL L'oreal paris Micellar Makyaj Temizleme Suyu 200 Ml	COL name VAL L'oreal Paris Micellar Makyaj Temizleme Suyu 400 Ml+ YÃ¼z Temizleme FÄ±rÃ§asÄ±	0
+COL name VAL L'oreal paris Infaillible 24H Matte Cover YÃ¼ksek KapatÄ±cÄ± FondÃ¶ten 200 Golden Sand	COL name VAL L'OrÃ©al Paris Infaillible 24H Matte Cover YÃ¼ksek KapatÄ±cÄ± FondÃ¶ten - 200 Golden Sand	1
+COL name VAL L'oreal paris Siyah  Paradise Maskara	COL name VAL L'OrÃ©al Paris Paradise Siyah Maskara	1
+COL name VAL L'OrÃ©al Paris Color Riche Free The Nudes Ruj - No Hesitation	COL name VAL L'oreal paris Ruj - Color Riche Free The Nudes 05 No Diktat	1
+COL name VAL L'oreal paris KadÄ±n  Ruj	COL name VAL Loreal Paris Loreal Color Riche Lipstick 112	1
+COL name VAL L'oreal paris Loreal Perfect Slim By Superliner Siyah Eyeliner	COL name VAL L'OrÃ©al Paris Superliner Perfect Slim Siyah Eyeliner	0
+COL name VAL L'oreal paris Paradise Siyah Maskara	COL name VAL Loreal Paris L'oreal Paris Lash Paradise Siyah Maskara Maskara	0
+COL name VAL L'oreal paris Ruj - Infallible Mega Gloss 509 You Know You	COL name VAL L'OrÃ©al Paris Mega Gloss Lip Gloss 509 YOU KNOW YOU LOVE ME	1
+COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 8D GOLDEN CAPPUCCINO	COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 8D Golden CappuccÄ±no	1
+COL name VAL L'OrÃ©al Paris Color Riche Matte Addiction Ruj 358 Lava - KÄ±rmÄ±zÄ±	COL name VAL L'oreal paris Mat Ruj - Color Riche Matte Addiction 358 Lava	1
+COL name VAL L'oreal paris Mat Ruj - Color Riche Matte Addiction 908 Storm	COL name VAL L'OrÃ©al Paris Color Riche Matte Addiction Ruj 908 Storm - Gri/Lila	1
+COL name VAL L'OrÃ©al Paris Matte Signature Eyeliner 03 Marron - Kahverengi	COL name VAL L'oreal paris Mat Eyeliner - Matte Signature Eyeliner 03 Marron 30175242	1
+COL name VAL L'oreal paris Telescopic Maskara - Siyah	COL name VAL L'orÃ©al Paris Telescopic Maskara - Siyah 2'li	0
+COL name VAL L'OrÃ©al Paris True Match FondÃ¶ten C7 Ambre Rose	COL name VAL L'oreal paris Nemlendirme Etkili FondÃ¶ten - True Match Foundation C7 Rose Amber 30 ml	1
+COL name VAL Loreal Paris L'oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 2r Rose Vanilla+True Match KapatÄ±cÄ± 2r/c Rose Vanilla	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 2R Rose Vanilla+True Match KapatÄ±cÄ± 2N Vanilla	0
+COL name VAL L'oreal paris Ruj - Color Riche Lipstick 130 Androgyne	COL name VAL Loreal Paris Color Riche Ruj Matte 130 Androgyne	1
+COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 1R ROSE IVORY	COL name VAL L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 1r Rose Ivory, 30 ml	0
+COL name VAL Loreal Paris Waterproof Crayon Eyeliner 07 Silver+06 Gold	COL name VAL L'oreal paris Paris Waterproof Crayon Eyeliner 07 Silver	0
+COL name VAL Loreal Paris L'orÃ©al Paris Bambi Eye Extra Black Ceylan GÃ¶z Etkili Maskara - Ekstra Siyah	COL name VAL L'oreal paris Bambi Eye Extra Black Ceylan GÃ¶z Etkili Maskara Ekstra Siyah 30178564	0
+COL name VAL L'OrÃ©al Paris Color Riche Matte Addiction Ruj 655 Copper Clutch - Kahverengi	COL name VAL L'Oreal Paris Color Riche Matte Addiction Ruj 655 Copper Clutch	1
+COL name VAL L'oreal paris AydÄ±nlatÄ±cÄ± Paleti - Merry Metals Glow Kit Highlighting Palette	COL name VAL L'OrÃ©al Paris Merry Metals Glow Kit AydÄ±nlatÄ±cÄ± Palet	1
+COL name VAL Loreal Paris L'oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 4n Beige	COL name VAL L'oreal paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 4n BeÄ±ge	0
+COL name VAL L'oreal paris BronzlaÅŸtÄ±rÄ±cÄ± Pudra - Bronze Please! Taormina Intenso 04	COL name VAL L'OrÃ©al Paris Bronze Please! BronzlaÅŸtÄ±rÄ±cÄ± Pudra 04 Taormina Intenso	1
+COL name VAL L'oreal paris GÃ¶z FarÄ± - Infallible Eyeshadow Paint 201 Golden Eye	COL name VAL L'OrÃ©al Paris Infaillible Eye Paint GÃ¶z FarÄ± 201 Goldeneye	1
+COL name VAL L'Oreal Paris No: 140 True Mach AllÄ±k	COL name VAL L'OrÃ©al Paris True Match Blush 140 V	1
+COL name VAL L'OrÃ©al Paris Color Riche Matte Addiction Ruj 640 Erotique - Nude	COL name VAL L'oreal paris Mat Ruj Color Riche Matte Addiction Lipstick 640 Erotique	1
+COL name VAL L'OrÃ©al Paris Infallible Eye Paint No 305 - Peach Me Babe	COL name VAL L'oreal paris GÃ¶z FarÄ± - Infallible Paint Nude Eyeshadow Peach Me Babe	1
+COL name VAL L'OrÃ©al Paris Volume Million Lashes Carbon Black Maskara Siyah	COL name VAL L'oreal paris Maskara Volume MÄ±llÄ±on Lashes Extra Black	1
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 3N Creamy BeÄ±ge	COL name VAL L'oreal paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 4n BeÄ±ge	0
+COL name VAL Loreal Infallible Longwear Shaping Stick 502	COL name VAL Loreal botanicals Loreal Infallible Longwear Shaping Stick 501	0
+COL name VAL L'oreal paris Likit Mat Ruj - Les Macarons Ultra Matte Liquid Lipstick 828 Framboise Frenzy	COL name VAL L'Oreal Paris Les Macarons Ultra Matte Likit Ruj 828 Framboise	1
+COL name VAL Loreal Paris AydÄ±nlatÄ±cÄ± Paleti 02 Cool Glow+Lionesse Barbie Makyaj FÄ±rÃ§asÄ± 002	COL name VAL L'oreal paris AydÄ±nlatÄ±cÄ± Paleti 02 Cool Glow+lionesse Barbie Makyaj FÄ±rÃ§asÄ± 002	0
+COL name VAL L'OrÃ©al Paris Infaillible Gel Crayon GÃ¶z Kalemi 13 Uptown Beige - Bej	COL name VAL L'oreal paris Bej Eyeliner - Infaillible Gel Crayon Eyeliner 13 Beige	1
+COL name VAL L'oreal paris Tekli GÃ¶z FarÄ± - Color Queen Mono Eyeshadow 39 Iconic, 30173378	COL name VAL L'OrÃ©al Paris Color Queen Tekli GÃ¶z FarÄ± 39 Iconic	1
+COL name VAL L'oreal paris Bambi Eye Ceylan GÃ¶z Etkili Maskara  Siyah	COL name VAL L'orÃ©al Paris Bambi Eye Ceylan GÃ¶z Etkili Maskara, Siyah, 8.9 ml	0
+COL name VAL Loreal Paris L'oreal Paris Bambi Eye Ceylan GÃ¶z Etkili Maskara Eks. Siyah Maskara	COL name VAL L'oreal paris Bambi Eye False Lash Ceylan GÃ¶z Etkili Ekstra Siyah Maskara	0
+COL name VAL L'OrÃ©al Paris Rouge Signature Parisian Sunset Likit Mat Ruj - 127 I Revolutionize	COL name VAL L'oreal paris Rouge Signature Parisian Sunset Likit Mat Ruj 127Revolutionize	1
+COL name VAL L'OrÃ©al Paris Infaillible Gel Crayon GÃ¶z Kalemi 14 White Is White - Beyaz	COL name VAL L'oreal paris Dudak Kalemi - Infaillible Lip PencilÂ  14 White is White	1
+COL name VAL L'OrÃ©al Paris Superliner Gel Intenza Siyah Eyeliner	COL name VAL L'oreal paris Jel Siyah Eyeliner - Gel Intenza 24H Gel Eyeliner 01 Pure Black	1
+COL name VAL L'oreal paris Color Riche Intense Volume Matte Ruj - 188 Rose Activist	COL name VAL L'orÃ©al Paris Color Riche Intense Volume Matte Ruj - 188 Rose Activist	1
+COL name VAL L'oreal paris Dudak Kalemi - Infaillible Lip Pencil 205 Apocalypse Red	COL name VAL L'OrÃ©al Paris Infaillible Dudak Kalemi 205 Apocalypse Red- KÄ±rmÄ±zÄ±	1
+COL name VAL Loreal Paris True Match FondÃ¶ten 1r Rose Ivory 30ML	COL name VAL L'oreal paris True Match FondÃ¶ten 1r1c1k Ivory Rose	0
+COL name VAL L'OrÃ©al Paris Color Riche Matte Addiction Ruj 909 Amulet - YeÅŸil	COL name VAL L'oreal paris Mat Ruj - Color Riche Matte Addiction 909 Amulet	1
+COL name VAL L'oreal paris Loreal Paris L'orÃ©al Paris Mascara Telescopic Black.,	COL name VAL L'OrÃ©al Paris Mascara Telescopic Black	0
+COL name VAL L'OrÃ©al Paris Color Riche Ruj 134 PINK PANAC	COL name VAL L'Oreal Paris Ruj No: 134	1
+COL name VAL L'OrÃ©al Paris Color Riche Plump & Shine Ruj 104 Guava Plump	COL name VAL L'oreal paris L'orÃ©al Paris Color Riche Plump & Shine Ruj	0
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5R ROSE SAND	COL name VAL L'oreal paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 7r Rose Amber	0
+COL name VAL Loreal Paris Emotions Of Nu AllÄ±k &amp; Far Paleti	COL name VAL L'Oreal Paris Emotions Of Nu AllÄ±k & Far Paleti	1
+COL name VAL L'OrÃ©al Paris Infaillible Dudak Kalemi 101 Gone With The Nude- Nude	COL name VAL L'oreal paris Infaillible Lip Pencil 101 Gone With The Nude Dudak Kalemi -	1
+COL name VAL L'OrÃ©al Paris Color Queen Tekli GÃ¶z FarÄ± 20 Queen	COL name VAL L'oreal paris Loreal Color Queen Tekli GÃ¶z FarÄ± 20 Queen	1
+COL name VAL Loreal Paris L'orÃ©al Paris Bambi Eye Ceylan GÃ¶z Etkili Maskara, Siyah, 8.9 ml	COL name VAL L'oreal paris L'orÃ©al Paris Bambi Eye Oversized Ceylan GÃ¶z Etkili Maskara - Siyah	0
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5.5D Golden Sun	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 6.5d Golden Toffee	0
+COL name VAL L'OrÃ©al Paris True Match - Pudra	COL name VAL L'oreal paris Pudra - True Match Powder 2.N Vanilla	1
+COL name VAL L'OrÃ©al Paris Paradise Siyah Maskara	COL name VAL L'oreal paris Paradise Siyah Maskara	1
+COL name VAL L'oreal paris Ruj - Color Riche Free The Nudes 06 No Hesitation	COL name VAL L'OrÃ©al Paris Color Riche Free The Nudes Ruj - No Diktat	1
+COL name VAL L'oreal paris Likit Mat Ruj - Les Chocolats Ultra Matte Liquid Lipstick 864 Tasty Ruby	COL name VAL L'Oreal Paris Les Chocolats Ultra Matte Likit Ruj 864 Tasty Ruby	1
+COL name VAL L'orÃ©al Paris Air Mega Volume Maskara - 30 Saate Kadar KalÄ±cÄ± - Ekstra Siyah	COL name VAL L'oreal paris Air Volume 30 Saate Kadar KalÄ±cÄ± Ekstra Siyah Maskara	1
+COL name VAL Loreal Paris Color Riche Mat Ruj 909 Amulet	COL name VAL L'oreal paris Mat Ruj - Color Riche Matte Addiction 909 Amulet	0
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5D Golden Sand	COL name VAL L'Oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 5D Golden Sand	1
+COL name VAL Loreal Paris L'oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 4n Beige	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 3N CREAMY BEIGE	0
+COL name VAL L'OrÃ©al Paris True Match Highlight AydÄ±nlatÄ±cÄ± 101D/101W Dore	COL name VAL L'oreal paris Dore TonlarÄ±nda AydÄ±nlatÄ±cÄ± - True Match Highlight 101D / 101W Golden Glow	1
+COL name VAL L'oreal paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 0.5r Rose PorcelaÄ±n	COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 0.5R Rose PorcelaÄ±n	1
+COL name VAL L'oreal paris Air Mega Volume Maskara -30 Saate Kadar KalÄ±cÄ± - Ekstra Siyah +pastel KalÄ±cÄ± Ruj No 15	COL name VAL L'orÃ©al Paris Air Mega Volume Maskara - 30 Saate Kadar KalÄ±cÄ± - Ekstra Siyah	0
+COL name VAL L'oreal paris Likit Mat Ruj - Les Macarons Ultra Matte Liquid Lipstick 826 Mademoiselle Mango	COL name VAL L'OrÃ©al Paris Les Macarons Likit Mat Ruj 826 Mademoiselle Mango	1
+COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 2r Rose	COL name VAL L'oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 1n Ivory FondÃ¶ten	0
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5R ROSE SAND	COL name VAL L'oreal paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 0.5r Rose PorcelaÄ±n	0
+COL name VAL L'oreal paris Infaillible Shaping Stick Sexy Flush AllÄ±k 001	COL name VAL Loreal Paris Infaillible Shaping Stick AllÄ±k 001 Sexy Flush	1
+COL name VAL L'oreal paris Infaillible 24H Matte Cover YÃ¼ksek KapatÄ±cÄ± FondÃ¶ten 320 Toffee	COL name VAL L'OrÃ©al Paris Infaillible 24H Matte Cover YÃ¼ksek KapatÄ±cÄ± FondÃ¶ten - 320 Toffee	1
+COL name VAL L'oreal paris L'orÃ©al Paris Paradise Suya DayanÄ±klÄ± Siyah Maskara	COL name VAL L'OrÃ©al Paris Paradise Suya DayanÄ±klÄ± Siyah Maskara	1
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten - 1D Golden Ivory	COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 1D Golden Ivory	1
+COL name VAL Loreal Paris Lip Liner Couture By Color Riche 374 Intense Plum	COL name VAL Loreal botanicals Lip Liner Couture By Color Riche 374 Intense Plum	0
+COL name VAL L'oreal paris Micellar Makyaj Temizleme Suyu Normalden Ve Karmaya Hassas Ciltler IÃ§in 200 ml	COL name VAL Loreal Paris MÄ±cellar	1
+COL name VAL L'oreal paris Siyah Eyeliner - Infaillible Gel Crayon Eyeliner 01 Black	COL name VAL L'OrÃ©al Paris Infaillible Gel Crayon GÃ¶z Kalemi 01 Back to Black - Siyah	1
+COL name VAL L'OrÃ©al Paris Brow Artist Xpert No 107 Cool Brunette	COL name VAL L'oreal paris KaÅŸ Kalemi - Brow Artist Xpert 107 Cool Brune	1
+COL name VAL Loreal Paris L'orÃ©al Paris Color Riche Les Nus Ruj - 179 Nu Decadent	COL name VAL L'oreal paris Color Riche Les Nus Ruj 179 Nu Decadent	0
+COL name VAL L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 3n Creamy BeÄ±ge 03600522862406	COL name VAL L'oreal paris True Match Foundation 3n Creamy Beige FondÃ¶ten - 	1
+COL name VAL Loreal Paris Paradise Siyah Maskara 2'li + Infaillible TÃ¼m YÃ¼ze Uygulanabilir KapatÄ±cÄ± 322 Ivory + Makyaj FÄ±rÃ§asÄ±	COL name VAL L'oreal paris 2 Li Set Unlimited Siyah Maskara & Infaillible TÃ¼m YÃ¼ze Uygulanabilir KapatÄ±cÄ± 322 Ivory	0
+COL name VAL L'OrÃ©al Paris Color Riche Matte Addiction Ruj 908 Storm - Gri/Lila	COL name VAL L'OREAL PARÄ°S MAT RUJ - COLOR RÄ°CHE MATTE ADDÄ°CTÄ°ON 908 STORM	1
+COL name VAL L'Oreal Paris Lumi Magique Concealer KapatÄ±cÄ± ve AydÄ±nlatÄ±cÄ± 02 Medium	COL name VAL L'oreal paris KapatÄ±cÄ± & AydÄ±nlatÄ±cÄ± AÃ§Ä±k - Lumimagic Highlighter Pen 01 Light	1
+COL name VAL L'orÃ©al Paris Color Riche Plump & Shine Ruj 101 Nectarine Plump	COL name VAL L'oreal paris L'orÃ©al Paris Color Riche Plump & Shine Ruj	0
+COL name VAL L'oreal paris Likit Mat Ruj - Rouge Signature	COL name VAL L'OrÃ©al Paris Rouge Signature Likit Mat Ruj - 116 I explore	0
+COL name VAL L'oreal paris Tekli GÃ¶z FarÄ± - Color Queen Mono Eyeshadow 01 Unsurpassed 30172999	COL name VAL L'OrÃ©al Paris Color Queen Tekli GÃ¶z FarÄ± 01 Unsurpassed	1
+COL name VAL L'oreal paris KadÄ±n Uzunluk SaÄŸlayan Mavi Maskara - Mega Volume Miss Baby Roll Mascara Indigo	COL name VAL L'OrÃ©al Paris Mega Volume Miss Baby Roll Mascara Indigo	1
+COL name VAL L'OrÃ©al Paris Paradise Orman Meyvesi Kokulu Mor Maskara	COL name VAL L'oreal paris Paradise Orman Meyvesi Kokulu Mor Maskara 02	1
+COL name VAL L'OrÃ©al Paris Infaillible 24H FondÃ¶ten - 230 Radiant Honey	COL name VAL L'oreal paris L'OrÃ©al Paris Infaillible 24H FondÃ¶ten 230 RADIANT HONEY	1
+COL name VAL Loreal botanicals Lip Liner Couture By Color Riche 374 Intense Plum	COL name VAL Loreal Paris Lip Liner Couture By Color Riche 374 Intense Plum	0
+COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 6.5d Golden Toffee	COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5D Golden Sand	0
+COL name VAL L'OrÃ©al Paris Rouge Signature Likit Mat Ruj - 116 I explore	COL name VAL L'oreal paris Likit Mat Ruj - Rouge Signature 116 I Explore	1
+COL name VAL Loreal Paris L'orÃ©al Paris Lash Paradise Intense Black Ekstra Siyah Maskara 2'li Set 1 Paket (1 x 2 Adet	COL name VAL L'oreal paris Lash Paradise Intense Black Ekstra Siyah Maskara	0
+COL name VAL Loreal Infallible Fresh Wear 24H FondÃ¶ten 60 Rose Ivory	COL name VAL L'oreal paris Infaillible 32H Fresh Wear C Vitaminli FondÃ¶ten - 60 Rose Ivory	1
+COL name VAL Loreal Paris Bambi Eye Ceylan GÃ¶z Etkili Maskara&les Macarons Lipstick 820 Praline De&organizer Hediyeli	COL name VAL L'oreal paris Bambi Eye Ceylan GÃ¶z Etkili Maskara Les Macarons Lipstick 820 Praline	0
+COL name VAL L'oreal paris Loreal True Match Foundation 5d Golden Sand FondÃ¶ten SÃ¼ngeri Seti	COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5D GOLDEN SAND	1
+COL name VAL L'oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 1n Ivory FondÃ¶ten	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 4n BeÄ±ge	0
+COL name VAL L'OrÃ©al Paris Rouge Caresse 06 Aphrodite Scarlet Ruj	COL name VAL L'oreal paris Lâ€™oreal Paris Rouge Caresse Ruj 06 Aphrodite Scarlet	1
+COL name VAL L'oreal paris Le Liner Signature Mavi GÃ¶z Kalemi 09	COL name VAL L'OrÃ©al Paris Le Liner Signature GÃ¶z Kalemi 09 Turquoise Faux Fur	1
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 1R ROSE IVORY	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 1N IVORY	0
+COL name VAL Loreal Paris L'oreal Paris Lash Paradise Siyah Maskara Maskara	COL name VAL L'oreal paris Paradise Siyah Maskara	0
+COL name VAL L'oreal paris Loreal True Match Nude Serum FondÃ¶ten Very Light FondÃ¶ten FÄ±rÃ§asÄ± Seti	COL name VAL Loreal Paris Loreal True Match Nude Serum FondÃ¶ten Very Light 360 FondÃ¶ten FÄ±rÃ§asÄ±	0
+COL name VAL L'oreal paris Likit Mat Ruj - Infallible Lip Paint Matte 204 Red Actually	COL name VAL L'OrÃ©al Paris Infaillible Lip Paint Likit Ruj Matte 204 Red Actually	1
+COL name VAL L'oreal paris Tekli GÃ¶z FarÄ± - Color Queen Mono Eyeshadow 20 Queen 30173187	COL name VAL Loreal Paris Tekli GÃ¶z FarÄ± - Color Queen Mono Eyeshadow 12 Fighter 30173101	0
+COL name VAL L'oreal paris Paradise Maskara 2'li Matara Hediyeli	COL name VAL L'Oreal Paris Paradise Maskara 2'li Matara Hediyeli	1
+COL name VAL L'oreal paris IÅŸÄ±ltÄ± SaÄŸlayan FondÃ¶ten - Lumi Macique Foundation Dw5 Gold Sand	COL name VAL L'OrÃ©al Paris Lumimagic DW5 SPF 18 FondÃ¶ten	1
+COL name VAL L'OrÃ©al Paris Lumi Magique FondÃ¶ten SPF18 R-C-K4	COL name VAL L'oreal paris IÅŸÄ±ltÄ± SaÄŸlayan FondÃ¶ten - Lumi Magique Foundation C4 Rose Beige	1
+COL name VAL L'oreal paris Air Volume 30 Saate Kadar KalÄ±cÄ± Ekstra Siyah Maskara	COL name VAL L'orÃ©al Paris Air Mega Volume Maskara - 30 Saate Kadar KalÄ±cÄ± - Ekstra Siyah	1
+COL name VAL L'OrÃ©al Paris Superliner Black Velvet Eyeliner	COL name VAL L'oreal paris Siyah Eyeliner - Infallible Superliner Black velvet	1
+COL name VAL Loreal botanicals Loreal Paris Infallible Longwear Lip Liner 701 Stay Ultraviolet	COL name VAL Loreal Paris Infallible Longwear Lip Liner 701 Stay Ultraviolet	0
+COL name VAL L'oreal paris Likit Ruj - Color Riche L'Extraordinaire Lipstick 401 Fuchia Drama	COL name VAL L'OrÃ©al Paris Extraordinaire 401 Fuschia Drama	1
+COL name VAL L'oreal paris Infaillable Automatic Jel GÃ¶z Kalemi - ZÃ¼mrÃ¼t YeÅŸili	COL name VAL Loreal Paris L'orÃ©al Paris Infaillable Automatic Jel GÃ¶z Kalemi - ZÃ¼mrÃ¼t YeÅŸili	1
+COL name VAL L'oreal paris Dudak Kalemi - Color Riche Crayon Liner 461 Scarlet Rouge	COL name VAL L'OrÃ©al Paris Color Riche Dudak Kalemi 461 Scarlet Rouge	1
+COL name VAL L'OrÃ©al Paris Superliner Superstar Siyah Eyeliner	COL name VAL L'oreal paris Siyah Eyeliner - Superliner Superstar	1
+COL name VAL Loreal Paris Color Queen Tekli GÃ¶z FarÄ± 34 Gilded	COL name VAL L'oreal paris Loreal Color Queen Tekli GÃ¶z FarÄ± 20 Queen	0
+COL name VAL Loreal Paris Lâ€™orÃ©al Paris Maskara Volume Million Lashes KadÄ±nlar GÃ¼nÃ¼ Ã–zel TasarÄ±m	COL name VAL L'oreal paris Volume Million Lashes KadÄ±nlar GÃ¼nÃ¼ Ã–zel TasarÄ±m	1
+COL name VAL Loreal Paris Ruj Kalem Matte LÄ±p Crayon 102 Caramel BlondÄ±e	COL name VAL L'oreal paris Infaillible Matte Lip Crayon Kalem Mat Ruj - 102 Caramel Blondie	1
+COL name VAL L'OrÃ©al Paris C'Ã‰st Magic Bb Krem 02 Light	COL name VAL L'oreal paris C'Ã©st Magic BB Krem 02 Light	1
+COL name VAL L'oreal paris L'OrÃ©al Paris Infaillible 24H FondÃ¶ten 230 RADIANT HONEY	COL name VAL L'OrÃ©al Paris Infaillible 24H FondÃ¶ten 230 RADIANT HONEY	1
+COL name VAL L'oreal paris Rouge Signature Lip Topper 210 White Gold ParlatÄ±cÄ± Ruj	COL name VAL L'OrÃ©al Paris Rouge Signature Lip Topper Dudak ParlatÄ±cÄ± Ruj - 210 White Gold	1
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 1R ROSE IVORY	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 1n Ivory	0
+COL name VAL L'OrÃ©al Paris Paradise Siyah Maskara	COL name VAL L'oreal paris Siyah  Paradise Maskara	1
+COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 1R ROSE IVORY	COL name VAL Loreal Paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 1r Rose Ivory, 30 ml	0
+COL name VAL L'oreal paris Micellar Makyaj Temizleme Suyu Normalden Ve Karmaya Hassas Ciltler IÃ§in 200 Ml	COL name VAL L'Oreal ParisÂ Micellar Makyaj Temizleme Suyu Normalden Ve Karmaya Hassas Ciltler Ä°Ã§in 200 ml	0
+COL name VAL L'OrÃ©al Paris Color Riche Ruj Exclusive Reds EVA'S PURE RED	COL name VAL L'oreal paris Ruj - Color Riche Exclusive Reds - Eva's Red	1
+COL name VAL L'oreal paris Pudra - True Match Powder C1 Rose Ivory	COL name VAL L'OrÃ©al Paris True Match Pudra C1 ROSE IVORY	1
+COL name VAL L'Oreal Paris GÃ¶z Kalemi No 108 Portofino Mavisi	COL name VAL L'OrÃ©al Paris Contour Khol 108 Portofino Blue GÃ¶z Kalemi	1
+COL name VAL L'OrÃ©al Paris Paradise Maskara Sevgililer ve KadÄ±nlar GÃ¼nÃ¼ Ã–zel TasarÄ±m	COL name VAL L'oreal paris Paradise Maskara Sevgililer ve KadÄ±nlar GÃ¼nÃ¼ Ã–zel 	1
+COL name VAL L'oreal paris True Match GÃ¶z Kremi Ä°Ã§eren KapatÄ±cÄ±  2'si 1 Arada  1-2R Rose Porcelain	COL name VAL Loreal Paris True Match GÃ¶z Kremi IÃ§eren KapatÄ±cÄ± Rose Porcelain	0
+COL name VAL Loreal Paris L'oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 2r Rose Vanilla+True Match KapatÄ±cÄ± 2r/c Rose Vanilla	COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 2r Rose	0
+COL name VAL L'orÃ©al Paris Telescopic Maskara - Siyah 2'li	COL name VAL L'oreal paris Telescopic Maskara - Siyah	0
+COL name VAL L'OrÃ©al Paris Rouge Signature Metallic Likit Ruj - 206 I Scintillate	COL name VAL L'oreal paris Likit Metalik Ruj - Rouge Signature Metallic  206 I Scintillate	1
+COL name VAL L'oreal paris 24 Saat KalÄ±cÄ± Ruj - Infaillible Rouge 209 Violet Parfait	COL name VAL L'OrÃ©al Paris Infaillible 24H Ruj 209 VIOLET PARFAIT	1
+COL name VAL Loreal Paris Infallible Longwear Lip Liner 001 Highlight On Point	COL name VAL Loreal botanicals Loreal Paris Infallible Longwear Lip Liner 001 Highlight On Point	0
+COL name VAL L'oreal paris True Match BakÄ±m Yapan FondÃ¶ten 2r Rose	COL name VAL Loreal Paris L'oreal Paris True Match BakÄ±m Yapan FondÃ¶ten 4n Beige	0
+COL name VAL L'OrÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5.5D Golden Sun	COL name VAL L'oreal paris L'orÃ©al Paris True Match BakÄ±m Yapan FondÃ¶ten 5d Golden Sand	0
+COL name VAL L'OrÃ©al Paris Infaillible Sexy Balm Ruj 204 CARPE DIEM	COL name VAL L'oreal paris Ruj - Infallible Sexy Balm 204 Never Stop	1
+COL name VAL L'oreal paris KontÃ¼r Paleti - Infallible Sculpt Contouring Palette 02 Medium/Light	COL name VAL L'OrÃ©al Paris Infaillible Sculpt Palette KontÃ¼r Paleti 01 LIGHT MEDIUM	1
+COL name VAL L'oreal paris L'orÃ©al Paris True Match Nude FondÃ¶ten Serum 3-4 Light Medium	COL name VAL Loreal Paris True Match Nude Serum FondÃ¶ten 2-3 Light	0
+COL name VAL L'oreal paris 24h Fresh Wear FondÃ¶ten Natural Rose KapatÄ±cÄ± + Makyaj Organizer	COL name VAL Loreal Paris 24H Fresh Wear FondÃ¶ten 125 Natural Rose & KapatÄ±cÄ± 327 Cashmere + Makyaj Organizer	0
+COL name VAL L'OrÃ©al Paris Rouge Signature Likit Mat Ruj - 116 I explore	COL name VAL L'oreal paris Likit Mat Ruj - Rouge Signature	0
+COL name VAL Loreal Paris L'oreal Paris Loreal Paris Color Riche Les Nus Ruj 179 Nu Decadent	COL name VAL L'oreal paris Color Riche Les Nus Ruj 179 Nu Decadent	0
+COL name VAL L'oreal paris Paris Infaillible 24h Concealer Pomade KapatÄ±cÄ± 02 Medium	COL name VAL L'OrÃ©al Paris Infaillible 24H Concealer Pomade KapatÄ±cÄ± 02 Medium - Koyu Ton	1
+COL name VAL L'oreal paris Le Khol  Immaculate Snow GÃ¶z Kalemi 120	COL name VAL L'OrÃ©al Paris Contour Khol GÃ¶z Kalemi 120 Immaculate Snow	1
+COL name VAL L'oreal paris TÃ¼m YÃ¼ze Uygulanabilir KapatÄ±cÄ± - Infaillible More Than Concealer 334 Walnut	COL name VAL L'OrÃ©al Paris Infaillible TÃ¼m YÃ¼ze Uygulanabilir KapatÄ±cÄ± 334 Walnut	1
+COL name VAL L'oreal paris L'orÃ©al Paris Mega Volume Collagene 24h Siyah Maskara	COL name VAL L'OrÃ©al Paris Mega Volume Collagene 24H Maskara - Siyah	1
+COL name VAL L'oreal paris Dudak Kalemi - Infaillible Lip PencilÂ 16 Navy Life	COL name VAL L'OrÃ©al Paris Infallible Waterproof Gel Crayon Eyeliner 16 Navy Life	1
+COL name VAL L'oreal paris Ruj - Color Riche Lipstick 364 16 Place ven	COL name VAL L'OrÃ©al Paris Color Riche Ruj 364 16 PLACE VENDOME	1
+COL name VAL Loreal Paris Marka: L'oreal Paris Pembe Color Riche Saten BitiÅŸli Violet Saturne Ruj 214 Kategori: Ruj	COL name VAL L'oreal paris Pembe Color Riche Saten BitiÅŸli Violet Saturne Ruj 214	0
